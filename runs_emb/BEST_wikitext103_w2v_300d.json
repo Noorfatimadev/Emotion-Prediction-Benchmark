@@ -1,0 +1,16 @@
+{
+  "config_name": "emb_wikitext103_w2v_300d.bin_mean_oovskip_ft0_L2_seed13",
+  "checkpoint": "runs_emb\\emb_wikitext103_w2v_300d.bin_mean_oovskip_ft0_L2_seed13.bin",
+  "best_epoch": 14,
+  "best_dev_rmse": 0.08558678044644431,
+  "train_mse": 0.0059418142773211,
+  "train_mae": 0.05627227574586868,
+  "train_rmse": 0.07708316468153796,
+  "train_pearson": 0.661832332611084,
+  "train_spearman": 0.633792311603257,
+  "dev_mse": 0.007325096987187862,
+  "dev_mae": 0.06347397714853287,
+  "dev_rmse": 0.08558678044644431,
+  "dev_pearson": 0.5505374670028687,
+  "dev_spearman": 0.5384672254063716
+}

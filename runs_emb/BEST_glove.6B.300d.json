@@ -1,0 +1,16 @@
+{
+  "config_name": "emb_glove.6B.300d.txt_mean_oovunk_ft0_L2_seed13",
+  "checkpoint": "runs_emb\\emb_glove.6B.300d.txt_mean_oovunk_ft0_L2_seed13.bin",
+  "best_epoch": 14,
+  "best_dev_rmse": 0.0859095517141878,
+  "train_mse": 0.004947065841406584,
+  "train_mae": 0.05168692767620087,
+  "train_rmse": 0.07033538114922377,
+  "train_pearson": 0.7275176048278809,
+  "train_spearman": 0.6932712127965779,
+  "dev_mse": 0.007380451075732708,
+  "dev_mae": 0.06438843905925751,
+  "dev_rmse": 0.0859095517141878,
+  "dev_pearson": 0.5564537048339844,
+  "dev_spearman": 0.5426240738015158
+}

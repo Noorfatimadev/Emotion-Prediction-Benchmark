@@ -1,0 +1,16 @@
+{
+  "config_name": "bow_lemma_count_layers3_seed13",
+  "checkpoint": "runs_bow\\bow_lemma_count_layers3_seed13.bin",
+  "best_epoch": 4,
+  "best_dev_rmse": 0.08923266263102658,
+  "train_mse": 0.0021457765251398087,
+  "train_mae": 0.033310119062662125,
+  "train_rmse": 0.0463225271886132,
+  "train_pearson": 0.8944205045700073,
+  "train_spearman": 0.8678898940819995,
+  "dev_mse": 0.007962468080222607,
+  "dev_mae": 0.06686799973249435,
+  "dev_rmse": 0.08923266263102658,
+  "dev_pearson": 0.5153107643127441,
+  "dev_spearman": 0.4842146659441876
+}
