@@ -1,5 +1,3 @@
-# IN5550 – Oblig 1
-
 Implementation of regression baselines for emotion prediction using:
 
 - **Part 1:** Bag-of-Words (BoW) + MLP  
